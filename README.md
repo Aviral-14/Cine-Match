@@ -26,7 +26,7 @@ CineMatch is a movie recommendation system that suggests what films you should w
 
 ## How It Works
 
-CineMatch uses advanced algorithms to analyze your movie preferences and viewing history. It then compares this data with our extensive movie database to suggest films you're likely to enjoy.
+CineMatch uses advanced algorithms to analyze your movie preferences and viewing history. It then compares this data with our extensive movie database to suggest films you're likely to enjoy
 
 ## Getting Started
 
